@@ -1,0 +1,11 @@
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\bin\Debug\EbayDownloader.exe.config
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\bin\Debug\EbayDownloader.exe
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\bin\Debug\EbayDownloader.pdb
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\obj\Debug\EbayDownloader.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\obj\Debug\EbayDownloader.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\obj\Debug\EbayDownloader.exe
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\obj\Debug\EbayDownloader.pdb
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\bin\Debug\HtmlAgilityPack.xml
+C:\Users\maxim\source\repos\EbayDownloader\EbayDownloader\obj\Debug\EbayDownloader.csproj.CopyComplete
